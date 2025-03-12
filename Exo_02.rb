@@ -1,3 +1,3 @@
 print "Quel est ton prénom?"
 prenom = get.chomp
-puts "Bonjour, Zakaria!"
+puts "Bonjour, prenom!"
